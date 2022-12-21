@@ -7,6 +7,8 @@ In this problem, **earthquake intensity > 4.5** should be predicted.
 - earthquake intensity > 4.5 to *1*
 - other values *0*
 
+## Feature Extraction 
+
 **Planets coordinates extracted by solarsystem:**
 
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/solar.PNG)
@@ -26,6 +28,7 @@ Convert **declination** and **Right Ascension** to distances and compute theta.
 
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/2.PNG)
 
+## Results
 **Best parameters (XGboost):**
 
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/3.PNG)
