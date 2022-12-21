@@ -30,6 +30,13 @@ Convert **declination** and **Right Ascension** to distances and compute theta.
 
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/3.PNG)
 
+The Following table shows models results:
+
+**Xgboost 1:** all features
+
+**Xgboost 2:** Sun features
+
+
 | Model  | Percision | Recall | F1-score | Accuracy | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **RandomForest**  | 0:0.96 - 1:0.45  | 0:0.94 - 1:0.52  | 0:0.95 - 1:0.48 | 0.91 |
