@@ -33,5 +33,5 @@ Convert **declination** and **Right Ascension** to distances and compute theta.
 | Model  | Percision | Recall | F1-score | Accuracy | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | RandomForest  | 0:0.96 - 1:0.45  | 0:0.94 - 1:0.52  | 0:0.95 - 1:0.48 | 0.91 |
-| Xgboost 1  | Content Cell  | | | |
-| Xgboost 2  | Content Cell  | | | |
+| Xgboost 1  | 0:0.95 - 1:0.67  | 0:0.98 - 1:0.43 | 0:0.97 - 1:0.53 | 0.94 |
+| Xgboost 2  | 0:0.92 - 1:0.64  | 0:1.0 - 1:0.23 | 0:0.96 - 1:0.15 | 0.92 |
