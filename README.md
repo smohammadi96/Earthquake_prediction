@@ -25,4 +25,6 @@ Convert **declination** and **Right Ascension** to distances and compute theta.
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/1.PNG) 
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/2.PNG)
 
+**Best parameters (XGboost):**
+
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/3.PNG)
