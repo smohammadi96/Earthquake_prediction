@@ -15,4 +15,14 @@ In this problem, **earthquake intensity > 4.5** should be predicted.
 
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/planets.PNG)
 
+
+Compute **declination** and **Right Ascension** by **solarsystem.Geocentric**
+
 ![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/ground.PNG)
+
+Convert **declination** and **Right Ascension** to distances and compute theta.
+
+![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/1.PNG) 
+![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/2.PNG)
+
+![alt text](https://github.com/smohammadi96/Earthquake_prediction/blob/main/images/3.PNG)
